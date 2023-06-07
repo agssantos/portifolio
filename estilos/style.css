@@ -5,7 +5,11 @@
     padding: 0;
 }
 
-
+:root {
+    --cor-primaria:#0000;
+    --cor-secundaria: #F6F6F6;
+    --cor-terciaria:#22D4FD;
+}
 
 body {
 
@@ -28,6 +32,7 @@ body {
     font-size: 24px;
     font-weight: 600;
     color: #22D4FD;
+    text-decoration: none;
 }
 
 .apresentacao {
