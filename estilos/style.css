@@ -87,7 +87,6 @@ body{
 }
 .apresentacao__links__link:hover{
     background-color: var(--cor-hover);
-    cursor: pointer;
 }
 .rodape{
     color: var(--cor-primaria);
